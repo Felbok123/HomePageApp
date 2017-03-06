@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_form">Get Attendees</string>
+    <string name="title_activity_info">Info</string>
+    <string name="text_view_form">Här kan du se alla som kommer</string>
+    <string name="button_text_form">Klicka för att hämta</string>
+    <string name="welcome_text_home">Hej och välkommen</string>
+    <string name="text_view_info">Hej Här har vi lite info</string>
+    <string name="main_text_info">Här kör vi events hela sommaren Det är heldagar då man ska bygga sin egen flotte så glöm inte sovutrustning! Självklart kan du ta med egen utrustning. Men det finns att hyra även på plats</string>
+    <string name="first_text_view_home">Här är den nya appen för att få info samt se vilka som kommer på eventet för Forsränning och KajakPaddling</string>
+    <string name="main_text_home">Välkommen till alla entusiaster för forsränning samt kajakpaddling i Dalälven. Här kommer du kunna få lära dig att bygga din egen flotte och självklart kommer vi ha med oss lunch samt fika Och för alla som vill lära sig mera om forsränning så har vi experter på plats. Vi har även events för kajakpaddling. För att se vilka som har registrerat dig så kan du trycka på forms längst upp i hörnet.</string>
+</resources>
